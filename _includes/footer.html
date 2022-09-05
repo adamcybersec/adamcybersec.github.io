@@ -15,7 +15,6 @@
         {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
@@ -23,6 +22,8 @@
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
       {% endif %}
+
+      {{ site.time | date: '%Y' }}
 
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
