@@ -17,10 +17,10 @@
       {% endif %}
 
       {% if site.url-pretty %}
-        &nbsp;&bull;&nbsp;
         <span class="author-site">
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
+        &nbsp;&bull;&nbsp;
       {% endif %}
 
       {{ site.time | date: '%Y' }}
