@@ -1,0 +1,31 @@
+remote_theme: samarsault/texture
+# theme: texture
+
+title: adamcybersec
+author: adamcybersec
+email: github@adamcybersec.com
+description: Cloud | DevOps | Cyber Security
+show_excerpts: true # set to true to show excerpts on the homepage
+
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: adamcybersec
+  tagline: Cloud | DevOps | Cyber Security
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: false
+  showPicker: true
+
+  social_links:
+    github:  adamcybersec
+    linkedIn: in/adamcybersec 
+
+header_pages:
+ - about.md
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
