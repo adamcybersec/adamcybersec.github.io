@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Currently working as a Lead Cloud Engineer at Azenix, focussing primarily on Microsoft Azure, Terraform and Kubernetes.
