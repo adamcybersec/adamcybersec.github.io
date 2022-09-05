@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/68766985/connect-azuread-using-powershell-in-azure-devops
