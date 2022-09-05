@@ -20,14 +20,14 @@ Go here: `https://dev.azure.com/<YOUR_ADO_ORG>/<YOUR_ADO_ORG>/_settings/reposito
 
 Give your Build Service(s) `Contribute` permissions. You could probably get by with Read permissions, in our case we are looking to use tools like GitVersion to manage our module versioning automatically from our CICD pipelines.
 
-![azure-devops-project-settings-repo-protection-for-yaml-pipelines]({{ site.baseurl }}/images/azure-repos-permissions-for-terraform.png)
+![azure-devops-project-settings-repo-protection-for-yaml-pipelines]({{ site.baseurl }}/assets/img/azure-repos-permissions-for-terraform.png)
 
 ### 2. Configure Azure DevOps Project Settings
 Next we need to flick a switch in the Azure DevOps Project Settings to disable the protection of Azure Repos from our Pipelines. which took my far longer to find than it should have.
 
 Go here: `https://dev.azure.com/<YOUR_ADO_ORG>/<YOUR_ADO_ORG>/_settings/settings`
 
-![azure-devops-project-settings-repo-protection-for-yaml-pipelines]({{ site.baseurl }}/images/azure-devops-repo-pipeline-protection.png)
+![azure-devops-project-settings-repo-protection-for-yaml-pipelines]({{ site.baseurl }}/assets/img/azure-devops-repo-pipeline-protection.png)
 
 ### 3. Persist Git Credentials in the YAML Pipeline
 Here we add `persistCredentials` to our `checkout: self` task.
@@ -44,7 +44,7 @@ Potentially this step might not be essential - but for me it was when I was firs
 ### 4. Add the YAML Pipeline Repository Resource Definition
 From the above task, note the tooltip which mentions the thing that we want most in our lives which is the 'job access token' for 'repositories that are explicitly referenced in the YAML pipeline':
 
-![azure-devops-project-settings-tooltip]({{ site.baseurl }}/images/protect-access-repos-pipelines-tooltip.png)
+![azure-devops-project-settings-tooltip]({{ site.baseurl }}/assets/img/protect-access-repos-pipelines-tooltip.png)
 
 This is how we do that in our Azure DevOps YAML pipeline as a [Repository Resource Definition](https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/multi-repo-checkout?view=azure-devops#repository-resource-definition):
 
@@ -75,7 +75,7 @@ module "great_module" {
 ### 5. Test it in Azure Pipelines
 Run your pipeline with `terraform init` and check to make sure the modules are downloaded successfully
 
-![terraform-init-successful-module-download]({{ site.baseurl }}/images/terraform-init-successful-module-download.png)
+![terraform-init-successful-module-download]({{ site.baseurl }}/assets/img/terraform-init-successful-module-download.png)
 
 
 ### References

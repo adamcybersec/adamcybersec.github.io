@@ -20,10 +20,11 @@ author: adamcybersec
 ###############################################
 
 navbar-links:
-  About Me: "about"
-  Resources:
+  About: "about"
+  Contact:
     - GitHub: "https://github.com/adamcybersec"
     - LinkedIn: "https://linkedin/in/adamcybersec"
+    - Email: "mailto:github@adamcybersec.com"
 
 ################
 # --- Logo --- #
