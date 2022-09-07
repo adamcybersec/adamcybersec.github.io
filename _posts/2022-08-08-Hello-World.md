@@ -11,7 +11,7 @@ If this works, it's thanks to a neat tutorial from [howchoo](https://howchoo.com
 
 More to come, wait out.
 
-**Contact**
-[LinkedIn](https://www.linkedin.com/in/adamcybersec/)
-[GitHub](https://github.com/adamcybersec/)
-[github@adamcybersec.comm](mailto:github@adamcybersec.com)
+### Contact
+[LinkedIn](https://www.linkedin.com/in/adamcybersec/)<br>
+[GitHub](https://github.com/adamcybersec/)<br>
+[github@adamcybersec.com](mailto:github@adamcybersec.com)

@@ -104,8 +104,8 @@ While this may not be new information to many Terraform engineers out there, hop
 
 Happy Clouding,
 
-**Contact**
+### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/adamcybersec/)
-- [GitHub](https://github.com/adamcybersec/)
+- [LinkedIn](https://www.linkedin.com/in/adamcybersec/)<br>
+- [GitHub](https://github.com/adamcybersec/)<br>
 - [Email](mailto:github@adamcybersec.com)

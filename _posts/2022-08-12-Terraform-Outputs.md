@@ -87,8 +87,8 @@ Again, nothing ground breaking by any means and I'm sure there is more I could t
 
 Happy Clouding,
 
-**Contact**
+### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/adamcybersec/)
-- [GitHub](https://github.com/adamcybersec/)
+- [LinkedIn](https://www.linkedin.com/in/adamcybersec/)<br>
+- [GitHub](https://github.com/adamcybersec/)<br>
 - [Email](mailto:github@adamcybersec.com)

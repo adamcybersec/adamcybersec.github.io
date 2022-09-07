@@ -88,8 +88,8 @@ I definitely have a bad habit of skim reading documentation looking for the exam
 
 Happy Clouding,
 
-**Contact**
+### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/adamcybersec/)
-- [GitHub](https://github.com/adamcybersec/)
+- [LinkedIn](https://www.linkedin.com/in/adamcybersec/)<br>
+- [GitHub](https://github.com/adamcybersec/)<br>
 - [Email](mailto:github@adamcybersec.com)
