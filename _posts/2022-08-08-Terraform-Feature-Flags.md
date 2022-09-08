@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Feature Flags with Terraform
+tags: terraform count for_each
 ---
 
 ### Fun with (Feature) Flags 

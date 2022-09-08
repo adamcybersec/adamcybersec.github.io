@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyll Blog on GitHub Pages
+tags: jekyll github
 ---
 
 If this works, it's thanks to a neat tutorial from [howchoo](https://howchoo.com/git/how-to-blog-in-markdown-using-github-and-jekyll-now)

@@ -1,3 +1,9 @@
+---
+layout: post
+title: Terraform Outputs Syntax
+tags: terraform outputs
+---
+
 ### Terraform Outputs with count and for_each
 As a relative newcomer to Terraform, some rather simple things have tripped me up along my journey as I've dug around the interwebs to find the right syntax, and in some cases have stumbled across multiple that work to achieve the same effect.
 

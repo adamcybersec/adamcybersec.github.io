@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Terraform Module Sources on Azure Repos
+tags: terraform modules azure
 ---
 
 Much of the documentation and discussion around Terraform, Terraform Modules and CICD Pipelines is written, understandably, about the free and open source tools like GitHub, Gitlab, Jenkins. With my focus on the Microsoft Azure platform, occasionally I find that some rather simple tasks often blow out into a multi-hour discovery effort.
