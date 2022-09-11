@@ -181,6 +181,9 @@ footer-hover-col: "#0085A1"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
+plausible:
+  enabled: true
+
 ####################
 # --- Comments --- #
 ####################
