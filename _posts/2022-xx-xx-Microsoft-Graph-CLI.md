@@ -1,0 +1,1 @@
+https://lazyadmin.nl/powershell/install-microsoft-graph-module/
