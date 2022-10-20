@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Enabling Azure Monitor Change Analysis with Terraform
-tags: terraform azure 'azure monitor'
+tags: terraform azure monitor
 ---
 
 **Azure Monitor** recently introduced a brilliant new [Change Analysis](https://learn.microsoft.com/en-us/azure/azure-monitor/change/change-analysis) feature allowing us to track any changes to the App configuration, hopefully reducing the investigation time when your App experiences downtime. Microsoft highlights the following
 - Azure Resource Manager resource properties
-  e.g.g - Hostnames, Managed Identities
+  - e.g. Hostnames, Managed Identities
 - Resource configuration changes
   - e.g. TLS settings, extension versions
 - App Service / Function App in-guest changes
