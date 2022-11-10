@@ -51,7 +51,7 @@ In this case, my use case dictated that we spin up a new App Service Plan, integ
 Running `terraform apply` again, I run into the same unhelpful error - but I'm sure I fixed the VNET issue already... upon inspection of the `tf-trace.log` again, we see something different this time:
 
 ```shell
-'{{"Details":[{"Message":"Subnet egress-snet in VNET vnet01 is already occupied by service /subscriptions/abcdefg-abcd-abcd-abcd-abcdef/resourceGroups/rg01/providers/Microsoft.Web/serverfarms/asp01."}]},"Innererror":null}: timestamp=2022-09-28T14:45:02.579+1000'
+"Message":"Subnet egress-snet in VNET vnet01 is already occupied by service /subscriptions/abcdefg-abcd-abcd-abcd-abcdef/resourceGroups/rg01/providers/Microsoft.Web/serverfarms/asp01.","Innererror":null: timestamp=2022-09-28T14:45:02.579+1000
 ```
 
 Again we see a whole lot more verbosity from the TRACE that tells us exactly what is happening. The [Subnet delegation](https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview) can only be linked to a single service. Easily fixed.
