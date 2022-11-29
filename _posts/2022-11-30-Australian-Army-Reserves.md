@@ -8,22 +8,22 @@ Since joining the Australian Army Reserves in 2020, I am asked nearly weekly by 
 ## The Journey
 I feel it is worth mentioning, just in case you are nervous just thinking about applying that you don't need to be 100% sure about your decision to join the Reserves before you apply. You can withdraw from the application process at any time leading up to the eventual day that you sign your contract and make your oath to our King (we are still part of the Commonwealth, remember) and to the Australian Government. The application process is just as much about you assessing the Australian Defence Force (ADF) as it is about the ADF assessing you.
 
-1. Visit the [Defence Jobs](https://www.defencejobs.gov.au/) website and have a look at some of the Reserve jobs available.
-2. Find a job role that interests you, and take a look at things like the Job Overview, the Pay and the other Benefits.
+1. **Visit** the [Defence Jobs](https://www.defencejobs.gov.au/) website and have a look at some of the Reserve jobs available.
+2. **Find** a job role that interests you, and take a look at things like the Job Overview, the Pay and the other Benefits.
 
 > Make sure you are looking at the Reserve (PART TIME) version of the role:
 > ![army-reserve-roles]({{ site.baseurl }}/assets/img/army-reserve-roles.png)
 
-3. Click 'Apply Now' button on the job role page (or up the top in the nav bar) and follow the prompts to create an account on the 'Candidate Hub'.
+1. **Click** 'Apply Now' button on the job role page (or up the top in the nav bar) and follow the prompts to create an account on the 'Candidate Hub'.
 
 > Review the [Application Process](https://www.defencejobs.gov.au/joining/how-to-join/recruitment-process) page and this [summary document](https://www.defencejobs.gov.au/-/media/DFR/Files/DFT_Overview_of_Recruiting_Process_.pdf) to see what Defence Jobs says but I'll add my take on the process based on my experience.
 
-4. Schedule in and attend a YOU Session, which is a half day at one of the Defence Jobs centres around the country. 
+4. **YOU Session** - Schedule in and attend a YOU Session, which is a half day at one of the Defence Jobs centres around the country. 
   - You will go through a couple of presentations about Army life from a few different Defence members.
   - You will have ample opportunity to ask any questions about service life, the application process, the job you are interested in, etc.
   - You will complete some of the paperwork for your application, bring in your ID documents, sign for a police check and a few other admin things. Get used to this, the ADF loves paperwork.
 
-5. Still at the YOU Session, you will complete an Aptitude Test, now rebranded as the 'Job Opportunities Test'. This is an honestly weird and abstract set of multiple choice questions designed to assess the way you think and your ability to problem solve. As far as I know you cannot fail but the better you do, the more job roles will be available to you. I haven't heard of anybody reaching the 'end' of the test, it potentially has no end but the aim is progress as far as you can within the time limit (I assume).
+5. **Aptitude Test** - Still at the YOU Session, you will complete an Aptitude Test, now rebranded as the 'Job Opportunities Test'. This is an honestly weird and abstract set of multiple choice questions designed to assess the way you think and your ability to problem solve. As far as I know you cannot fail but the better you do, the more job roles will be available to you. I haven't heard of anybody reaching the 'end' of the test, it potentially has no end but the aim is progress as far as you can within the time limit (I assume).
 
 There are a handful of websites that have unofficial Australian Army Aptitude Test preparation question sets that might be worth doing if you are feeling nervous. The style of questions is not something I had done since maybe Year 5 or Year 6 at Primary School, questions like the below with highly variable difficulty:
 
@@ -39,13 +39,13 @@ There are a handful of websites that have unofficial Australian Army Aptitude Te
   - 6
   - 8
 
-6. If the YOU Session went well, you will then be scheduled in to meet with a Career Coach, this used to be in person but seem to all be phone or Zoom style sessions now since COVID. This is to talk about the role you might be applying for, making sure you understand some of the basics about service life and to help prepare you for the rest of the process.
+6. **Career Coach** - If the YOU Session went well, you will then be scheduled in to meet with a Career Coach, this used to be in person but seem to all be phone or Zoom style sessions now since COVID. This is to talk about the role you might be applying for, making sure you understand some of the basics about service life and to help prepare you for the rest of the process.
 
-7. Assessment Day - Another half day at one of the Defence Jobs centres, you will get your Medical checkup with a Defence Doctor - basic things like mobility, basic body functions and reflex tests. A Psychological interview where I suggest you open up properly, they will see through any shenanigans and remember, the Psychologists are there to make sure that you are going to be able to deal with the unique pressures of service life. 
+7. **Assessment Day** - Another half day at one of the Defence Jobs centres, you will get your Medical checkup with a Defence Doctor - basic things like mobility, basic body functions and reflex tests. A Psychological interview where I suggest you open up properly, they will see through any shenanigans and remember, the Psychologists are there to make sure that you are going to be able to deal with the unique pressures of service life. 
 
-8. If both of the above assessments goes well, you will get passed to a Defence Member to go through your Defence Interview. Don't stress about this stage, they are not there to trip you up, they want you to succeed but they also want to know that you are genuinely interested in service life, the role you've applied for, and are prepared to put in the effort to succeed. Highly recommend giving the [adffitness.com](https://www.adffitness.com.au/recruitment/recruitment-2-2-assessment-day-defence-interview/) a good read, you don't need to memorise everything but it's a great sample of the kinds of things to research, understand and be prepared to talk about.
+8. **Defence Interview** - If both of the above assessments goes well, you will get passed to a Defence Member to go through your Defence Interview. Don't stress about this stage, they are not there to trip you up, they want you to succeed but they also want to know that you are genuinely interested in service life, the role you've applied for, and are prepared to put in the effort to succeed. Highly recommend giving the [adffitness.com](https://www.adffitness.com.au/recruitment/recruitment-2-2-assessment-day-defence-interview/) a good read, you don't need to memorise everything but it's a great sample of the kinds of things to research, understand and be prepared to talk about.
 
-9. If you are applying to be an Officer, you'll need to go through the Officer Selection Board but I can't comment on this stage. Personally though, as a Reservist, given it's a part time role, it seems like more fun to be General Entry - just my 2c, YMMV depending on your longer term civilian and military career and life goals.
+9. **Officer Selection** - If you are applying to be an Officer, you'll need to go through the Officer Selection Board but I can't comment on this stage. Personally though, as a Reservist, given it's a part time role, it seems like more fun to be General Entry - just my 2c, YMMV depending on your longer term civilian and military career and life goals.
 
 10. **Fitness Test** - if you've smashed all the previous steps over the course of a few (or many) months you'll need to attend a Military Base in just your civilian fitness wear (stick with tee shirt and shorts), with decent quality running shoes with good support for the beep test, you don't want sloppy shoes as you pivot. You are doing the [Personal Fitness Assessment](https://www.defencejobs.gov.au/-/media/DFR/Files/Training-for-the-PFA-Brochure.pdf) (PFA) - you'll do this a few weeks before you go off to Basic Training, again while you're at Basic a couple of times and then never again unless you go Infantry in which case, PT is what you signed up for. If you cannot smash [these minimum requirements](https://www.defencejobs.gov.au/joining/can-i-join/health-and-fitness) before signing up, emphasis on `minimum` have a serious think about how badly you really want to join:
 - 7.5 on the Beep Test (aka Shuttle Run)
